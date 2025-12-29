@@ -134,7 +134,7 @@ function reload() {
         看看我的！
       </button>
       <a
-        href="https://github.com/djdjz7/pg-wrapped"
+        href="https://github.com/illusionaryd/pg-wrapped"
         target="_blank"
         m-t-4
         self-center
@@ -320,7 +320,7 @@ function reload() {
         <span emphasis>本学期的代码就写到这里吧</span>
         <span>下个学期也要继续努力哦</span>
         <a
-          href="https://github.com/djdjz7/pg-wrapped"
+          href="https://github.com/illusionaryd/pg-wrapped"
           target="_blank"
           m-t-8
           text-sm
@@ -336,7 +336,7 @@ function reload() {
       <h1>出错了！</h1>
       <p>似乎没有获取到任何课程数据。</p>
       <p>
-        有问题？<a color-blue href="https://github.com/djdjz7/pg-wrapped/issues/new/choose"
+        有问题？<a color-blue href="https://github.com/illusionaryd/pg-wrapped/issues/new/choose"
           >报告问题</a
         >。
       </p>
